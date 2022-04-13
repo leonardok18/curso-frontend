@@ -23,6 +23,19 @@ Arquivo B | Versão 1 | Versão 2.
 ## Commits 
 Informação de alteração. 
 - após testado todo seu código (apenas após todas as confimações no código).
+- git add *
+- git commit -m "mensgem" 
+- git push (enviar alterações para o repositório)
+- git pull ( puxar / trazer alterações do GitHub para sua máquina)
 
 ## GitFlow 
 Fluxo do Git 
+
+
+### Branchs
+- são ramificações / versões paralelas 
+
+- main / master ( vai para produção, quando o projeto é publicado)
+- develop 
+
+- versionamento 0.1.10
